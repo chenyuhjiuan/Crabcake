@@ -1,15 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="1932" />
-    <option name="height" value="1047" />
+  <component name="ChangeListManager">
+    <list default="true" id="17fe9a8e-8067-4b19-96a6-7be4e41f2fca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BookApplication/BookApplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookApplication/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookApplication/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bookdatabase/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bookdatabase/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bookdatabase/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bookdatabase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bookdatabase/Bookdatabase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bookdatabase/src/Bookdata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bookdatabase/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobApp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobApp/JobApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobApp/src/Description.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobApp/src/JobApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobApp/src/Jobs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobApp/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobAppadvanced/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobAppadvanced/JobAppadvanced.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobAppadvanced/src/Description.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobAppadvanced/src/JobApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobAppadvanced/src/Jobs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobAppadvanced/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Joblog/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Joblog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Joblog/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Joblog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Joblog/Joblog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Joblog/src/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Joblog/src/JobDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Joblog/src/Joblog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loop1/Loop1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loop1/src/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackforAtrip/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackforAtrip/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackforAtrip/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackforAtrip/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackforAtrip/PackforAtrip.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackforAtrip/src/Closet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackforAtrip/src/Footware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackforAtrip/src/Jacket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackforAtrip/src/PackForAtrip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackforAtrip/src/Pants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackforAtrip/src/Shirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Populate Book DB/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Populate Book DB/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Populate Book DB/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Populate Book DB/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Populate Book DB/Populate Book DB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Populate Book DB/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Populate Book DB/src/BookDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Populate Books/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Populate Books/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Populate Books/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Populate Books/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Populate Books/Populate Books.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Populate Books/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Populate Books/src/BookDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductAbstract/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductAbstract/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductAbstract/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductAbstract/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductAbstract/ProductAbstract.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductFinal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductFinal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductFinal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductFinal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductFinal/ProductFinal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductInheritance/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductInheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductInheritance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductInheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductInheritance/ProductInheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductInheritance/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductInheritance/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductInheritance/src/Software.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductOverride/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductOverride/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductOverride/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductOverride/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductOverride/ProductOverride.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductOverride/src/Bookchild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductOverride/src/SoftwareJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resume/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resume/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resume/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resume/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resume/Resume.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resume/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resume/src/Education.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resume/src/Resume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resume/src/Skill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resume/src/Work.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resumerona/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resumerona/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resumerona/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resumerona/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resumerona/Resumerona.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fridaychallenge2/fridaychallenge2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/Burrito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/Burritomaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/BurritoPicker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/week2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2challenge/src/BurritoOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2challenge/week2challenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crabcake recipe.html" beforeDir="false" afterPath="$PROJECT_DIR$/crabcake recipe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex07-TVFormValidation-master" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex07-TVFormValidation-master" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise13-master" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise13-master" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTMLCSSJavaScript" beforeDir="false" afterPath="$PROJECT_DIR$/../HTMLCSSJavaScript" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Post-CSS-Image-fragment-master" beforeDir="false" afterPath="$PROJECT_DIR$/../Post-CSS-Image-fragment-master" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servletjsp-master" beforeDir="false" afterPath="$PROJECT_DIR$/../servletjsp-master" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/out/production/week1/ChooseYourOwnAdventure.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/out/production/week1/ChooseYourOwnAdventure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/src/ChooseYourOwnAdventure.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/ChooseYourOwnAdventure.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RGcecMxqWE3hJy7sLZfHXVBqj7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17fe9a8e-8067-4b19-96a6-7be4e41f2fca" name="Default Changelist" comment="" />
+      <created>1569296969161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569296969161</updated>
+      <workItem from="1569296970501" duration="1444000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
